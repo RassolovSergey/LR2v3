@@ -1,0 +1,5 @@
+gridSize=10
+windowWidth=320
+windowHeight=240
+bgColor=170 23 230
+gridColor=255 0 0
